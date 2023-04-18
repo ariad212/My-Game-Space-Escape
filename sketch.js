@@ -25,7 +25,7 @@ function preload() {
   obstacle_4 = loadImage('./assets/Obstacle_4.png');
 
   restartImg = loadImage("./assets/restart.png");
-  gameOverImg = loadImage("./assets/gameOver.png");
+  gameOverImg = loadImage("./assets/gameover.png");
 }
 
 function setup() {
